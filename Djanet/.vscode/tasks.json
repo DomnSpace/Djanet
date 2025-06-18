@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Build Wolfram Alpha Tool",
+			"isBackground": false,
+			"command": "uv build"
+		}
+	]
+}

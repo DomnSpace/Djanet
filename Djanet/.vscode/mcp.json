@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "physics-solver-vis": {
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Users\\Dominik\\Downloads\\djanet",
+        "run",
+        "wolfram-alpha-tool" // TODO: Update this to the new package name if changed
+      ]
+    }
+  }
+}
